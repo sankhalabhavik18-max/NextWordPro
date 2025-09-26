@@ -5,7 +5,7 @@ It allows users to input a sequence of words and predicts the most likely next w
 
 ---
 
-## ðŸš€ Features
+## 🚀 Features
 - Interactive GUI built with **Tkinter**  
 - Predicts the next word for a given text input  
 - Pre-trained tokenizer included (`tokenizer1.pkl`)  
@@ -14,7 +14,7 @@ It allows users to input a sequence of words and predicts the most likely next w
 
 ---
 
-## ðŸ“Š Model Training
+## 📊 Model Training
 - **Dataset**: The model was trained on *metamorphosis_clean.txt*  
 - **Training Details**:  
   - Trained for **150 epochs**  
@@ -25,7 +25,7 @@ This demonstrates the modelâ€™s ability to learn meaningful language patter
 
 ---
 
-## âš¡ Quick Start
+## ⚡ Quick Start
 
 ### 1. Clone the repository
 ```bash
@@ -54,7 +54,7 @@ For training and evaluation details, open the Jupyter notebooks:
 
 ---
 
-## ðŸ“‚ Repository Structure
+## 📂 Repository Structure
 ```
 NextWordPro/
 â”‚-- predictions.py            # GUI + model prediction
@@ -69,7 +69,7 @@ NextWordPro/
 
 ---
 
-## ðŸ“Œ Future Improvements
+## 📌 Future Improvements
 - Add support for **top-3 / top-5 predictions**  
 - Improve GUI layout and user experience  
 - Expand dataset for broader vocabulary coverage  
@@ -77,12 +77,7 @@ NextWordPro/
 
 ---
 
-## ðŸ“œ License
-MIT License â€“ free to use, modify, and distribute with attribution.  
-
----
-
-## ðŸ™Œ Acknowledgements
+## 🙌 Acknowledgements
 - Python & Tkinter for the GUI  
 - TensorFlow/Keras for model training  
 - Dataset: *metamorphosis_clean.txt* (Project Gutenberg source text)  
